@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my portfolio page: www.kirikvistnes.no
+- ⚡ I'll be on maternity leave from june 2023 until july 2024.
+
 <!--
 **kirikvi/kirikvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
