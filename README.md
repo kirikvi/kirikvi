@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 - 🔭 I’m currently working on my portfolio page: www.kirikvistnes.no
 - ⚡ I'll be on maternity leave from june 2023 until july 2024.
