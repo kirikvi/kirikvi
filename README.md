@@ -1,6 +1,6 @@
 ### Hello
 
-- 🔭 I’m currently working on my portfolio page: kirikvistnes.no
+- 🔭 I’m currently working on my [portfolio page](kirikvistnes.no)
 - ⚡ I'll be on maternity leave from june 2023 until july 2024.
 
 <!--
